@@ -1,3 +1,3 @@
-#Image-Classification 
-ML-Minor-March
+#  ML-Minor-March
+Image-Classification
 
